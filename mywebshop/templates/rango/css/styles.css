@@ -1,0 +1,28 @@
+head, header, body, footer, div, h1, h2, h3{
+  font-size: 14px;
+  font-style: normal;
+  font-family: "arial"
+}
+
+h1 {
+  font-size: 24px;
+  font-style: bold;
+}
+
+header {
+  align-content: left
+}
+
+.header_title {
+  position: absolute;
+  top: 40px;
+  align
+}
+
+.header_image {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 40px
+  left: 40px
+}
